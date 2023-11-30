@@ -48,4 +48,13 @@ img:hover{
         padding-top: 362px;
         padding-right:320px;
     }
+    img{
+    transition: 0.25s ease-in-out;
+    width: 240px;
+    height:240px;
+    }
+    #long{
+    width:240px;
+    height:340px;
+    }
 }
