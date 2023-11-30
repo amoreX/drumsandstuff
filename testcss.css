@@ -45,7 +45,7 @@ img:hover{
         align-items: flex-end;
         flex-direction: column;
         gap:55px;
-        padding-top: 362px;
+        padding-top: 400px;
         padding-right:320px;
     }
     img{
@@ -55,6 +55,6 @@ img:hover{
     }
     #long{
     width:240px;
-    height:340px;
+    height:310px;
     }
 }
