@@ -38,12 +38,12 @@ img:hover{
 
 }
 
-@media screen and (max-width:768px){
-    .body-container{display:flex;
+@media screen and (max-width:500px){
+    .body-container{
+        display:flex;
         justify-content: center;
         align-items: flex-end;
         flex-direction: column;
-        height:45vh;
         gap:55px;
         padding-top: 450px;
         padding-right:280px;
