@@ -21,7 +21,7 @@ img{
     height:120px;
 }
 img:hover{
-    box-shadow: 2px 4px 4px rgba(241, 112, 112, 0.9);
+    box-shadow: 5px 5px 4px rgba(241, 112, 112, 0.9);
 }
 #long{
     width: 120px;
