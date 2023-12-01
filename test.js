@@ -1,4 +1,5 @@
 function playaudio(audioId){
-    var audio=document.getElementById(audioId);
+    var audio = new Audio();
+    audio.src = document.getElementById(audioId).src;
     audio.play();
 }
